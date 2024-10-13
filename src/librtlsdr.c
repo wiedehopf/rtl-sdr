@@ -310,6 +310,7 @@ static rtlsdr_dongle_t known_devices[] = {
 	{ 0x0bda, 0x2832, "Generic RTL2832U" },
 	{ 0x0bda, 0x2838, "Generic RTL2832U OEM" },
 	{ 0x0ba0, 0x2838, "Bricked RTL2832U" },
+	{ 0xa0a0, 0xa0a0, "Bricked RTL2832U 2" },
 	{ 0x0413, 0x6680, "DigitalNow Quad DVB-T PCI-E card" },
 	{ 0x0413, 0x6f0f, "Leadtek WinFast DTV Dongle mini D" },
 	{ 0x0458, 0x707f, "Genius TVGo DVB-T03 USB dongle (Ver. B)" },
